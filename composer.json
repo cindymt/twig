@@ -1,0 +1,16 @@
+{
+    "name": "cindymt/twig-a2",
+    "description": "My first Twig Engine Template Biatch!",
+    "require": {
+        "twig/twig": "1.16.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cindy MOUTOU",
+            "email": "cindymoutou13@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
+
